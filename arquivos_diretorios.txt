@@ -6,4 +6,8 @@ Comando para a navegações entre diretorios:
     pwd
     o comando pwd irá nos mostra onde etamos, ou seja, em qual diretorio
     você está.
-    
+    ls
+    o comando ls(listar) permite exibir uma lista de arquivos em um 
+    diretorio. Ele possui algumas flags(opções de comandos).
+    Ex.:exibir os arquivos e pastar, inclusive os ocultos
+       ls -la 
