@@ -15,4 +15,8 @@ Comando para a navegações entre diretorios:
 
     mkdir
     o  comando cria diretorios. Por isso o seu nome é mkdir(make directory)
-    Ex.:mkdir dados 
+    Ex.:mkdir dados
+
+    Cp
+    o comando Cp(copy) é responsável por realizar uma cópia
+    de arquivos ou diretorios 
