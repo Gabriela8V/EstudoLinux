@@ -1,0 +1,3 @@
+ps 
+    comando usado para verificar os processo que estão
+    sendo executadoss neste momento.
